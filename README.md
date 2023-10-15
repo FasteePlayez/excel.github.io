@@ -1,2 +1,3 @@
 # excel.github.io
-swa projekt
+nejjednoduší pro mě bylo vytvořit repozitář
+nejtěžší pro mě bylo všechno ostatní
